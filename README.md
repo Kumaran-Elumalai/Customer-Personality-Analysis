@@ -8,7 +8,6 @@ Customer personality analysis helps a business to modify its product based on it
 Attributes
 People
 •	ID: Customer's unique identifier
-
 •	Year_Birth: Customer's birth year
 
 •	Education: Customer's education level
