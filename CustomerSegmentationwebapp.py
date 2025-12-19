@@ -2,7 +2,7 @@
 """
 Created on Sat Apr  8 19:08:25 2023
 
-@author: kumaran elumalai
+@author: Kumaran Elumalai
 """
 
 import numpy as np
@@ -60,3 +60,4 @@ def main():
 if __name__ == '__main__':
 
         main ()
+
